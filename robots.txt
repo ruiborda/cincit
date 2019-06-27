@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cincit.unajma.edu.pe/sitemap.xml
+ 

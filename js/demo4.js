@@ -1,0 +1,1 @@
+const images=document.querySelectorAll("img"),lazyImage=(e,t)=>{e.filter(e=>e.isIntersecting).forEach(e=>{const r=e.target,a=r.getAttribute("data-lazy");r.setAttribute("src",a),t.disconnect(),console.log("load")})};images.forEach(e=>{new IntersectionObserver(lazyImage).observe(e)});
