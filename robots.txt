@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://cincit.unajma.edu.pe/sitemap.xml
- 
+Sitemap: https://ruiborda.github.io/cincit/sitemap.xml
