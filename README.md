@@ -1,2 +1,3 @@
 # cincit_pagina
-página web para cincit.unajma.edu.pe
+página web
+![](https://github.com/ruiborda/cincit/blob/main/images/screenshot_01.webp)
